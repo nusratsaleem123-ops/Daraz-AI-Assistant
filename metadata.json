@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 1,
+    "chunk_index": 0,
+    "text": "Daraz Corporate Policies Guide A comprehensive reference for Selling, Purchasing, Returns, Shipping, and Payment Policies. 1. Buying & Purchase Policy Ordering Process: Customers place orders via the official digital platforms by selecting products, adding them to the cart, and advancing through secure checkout portals. DarazMall Authenticity: All items under the DarazMall flagship carry a strict 100% authenticity guarantee. Valid claims against counterfeits qualify for a 2x money-back settlement (excluding select grocery categories and digital assets). Warranty Administration: Consumer electronics, smartphones, and domestic appliances carry official brand, merchant, or localized standard coverage terms as listed at purchase verification. 2. Comprehensive Return Policy Return Window: Customers possess a dedicated period of up to 14 days from physical delivery to initiate formalized reverse logistics claims. Valid Return Criteria: Inventory received in a damaged, highly defective,"
+  },
+  {
+    "id": 1,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 1,
+    "chunk_index": 1,
+    "text": "days from physical delivery to initiate formalized reverse logistics claims. Valid Return Criteria: Inventory received in a damaged, highly defective, incorrect configuration, incomplete unit assembly, or falling under approved 'change-of-mind' cross-categories. Execution Pipeline: Requests must be formally generated through user account dashboards via My Orders > Initiate a Return. Customers select complementary pick-up validation or regional drop-off via certified shipping lines (e.g., TCS or localized hubs). Packaging Compliance: Merchandise must return encased inside original retail manufacturer boxes, complete with tags, peripheral manuals, documentation, and explicit tracking identifiers safely exposed. 3. Delivery & Shipping Policy SLA Requirements: Certified marketplace vendors maintain an obligation to securely pass verified orders to fulfillment networks within a maximum 48-hour service level agreement. Consignment Tracking: Shipments remain fully transparent, backed by"
+  },
+  {
+    "id": 2,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 1,
+    "chunk_index": 2,
+    "text": "d orders to fulfillment networks within a maximum 48-hour service level agreement. Consignment Tracking: Shipments remain fully transparent, backed by singular identification keys updated continuously over operational dashboards and immediate SMS notifications. Delivery Protection Protocols: Failed shipments require operational validation via unique OTP authentication keys to control inventory loops and security parameters effectively."
+  },
+  {
+    "id": 3,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 2,
+    "chunk_index": 3,
+    "text": "4. Payment & Refund Matrix Merchant Disbursements: Supplier credits transfer seamlessly to registered business bank channels upon systematic completion of delivery timelines and routine dispute reconciliation windows. Payment Mechanism Standard Processing Cycle Direct Bank Account / HBL Transfer ~5 Working Days Debit / Credit Card Reversal ~10 Working Days Cash on Delivery (COD) to Digital Wallet ~30 Minutes (Instant) Pre-paid Failed Delivery Adjustments 11 to 20 Working Days Shipping Remittances: Valid asset returns successfully passing quality verification checks include the baseline outward shipping charges as part of the net refund sum. DARAZ GROUP OPERATIONAL MANUAL Comprehensive Inter-Departmental Policies & Guidelines | System Version 2026 • Commercial & Marketplace Department • Seller Onboarding & KYC: All sellers must undergo strict corporate or individual biometric verification before store activation. Required documentation includes valid NTN/FTN, active bank settlement"
+  },
+  {
+    "id": 4,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 2,
+    "chunk_index": 4,
+    "text": "o strict corporate or individual biometric verification before store activation. Required documentation includes valid NTN/FTN, active bank settlement accounts, and localized identity proofs. • Commission & Listing Architecture: Commissions are deducted automatically based on categorical matrixes (ranging from 2% to 22%). Sellers are strictly prohibited from artificial pricing inflation, listing manipulation, or duplicating stores to monopolize organic search real estate. • Counterfeit & Anti-Piracy Mandate: Zero tolerance policy for counterfeit, replica, or unauthorized gray- market items. Flagged accounts face permanent immediate balance liquidation, immediate storefront deactivation, and potential legal escalations by the brand protection team. • Logistics & Supply Chain (Daraz Express - DEX) • Order Fulfillment & Inbound SLAs: Cross-dock / Marketplace sellers must execute order processing (Ready to Ship - RTS) within 24 to 48 hours of order generation. Failure leads to automatic"
+  },
+  {
+    "id": 5,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 2,
+    "chunk_index": 5,
+    "text": "s-dock / Marketplace sellers must execute order processing (Ready to Ship - RTS) within 24 to 48 hours of order generation. Failure leads to automatic tier demotion and systemic inventory throttling. • 3PL (Third-Party Logistics) Integration: Partners must strictly sync real-time tracking architecture into the Daraz API. Delays in standard logistics milestone scans exceeding 24 hours trigger automated algorithmic penalties."
+  },
+  {
+    "id": 6,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 3,
+    "chunk_index": 6,
+    "text": "• Fulfillment by Daraz (FBD) Mandate: Dedicated inventory stored within state-of-the-art Daraz warehouses is strictly monitored under FIFO protocols. Storage charges are calculated daily on volumetric cubic feet, with clean liquidations initiated for items sitting dormant for over 90 consecutive days. • Customer Care & Experience Department • Omnichannel Service Levels: Live Chat response intervals must sit under 45 seconds average speed of answer. Escalated consumer disputes receive complete email/telephonic investigation pipelines resolving within 48 business hours maximum. • The 14-Day Return Guarantee: Consumers retain full sovereign protection to process returns inside a strict 14-day window for qualified items. Change-of-mind parameters apply uniquely to untampered visual boxes and factory-sealed packages only. • Abuse Protection Protocol: Tracks malicious cross-consumer trends. Accounts placing frequent high- value fraudulent Cash on Delivery (COD) orders with high rejection"
+  },
+  {
+    "id": 7,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 3,
+    "chunk_index": 7,
+    "text": "n Protocol: Tracks malicious cross-consumer trends. Accounts placing frequent high- value fraudulent Cash on Delivery (COD) orders with high rejection rates face systemic banishment from the platform ecosystem. • Finance & Payment Operations • Bi-Weekly Marketplace Settlements: Payout disbursements run cleanly twice per month directly to verified merchant banking rails, excluding pending active disputes or processing claims. • Escrow & Fraud Deficits: Customer funds are held securely in institutional transit escrow accounts until standard visual validation and structural return window timeframes expire cleanly. • Refund Instrument Reversals: Financial pathways dictate specific reverse cycle times: Mobile Wallets settle instantly inside 30 minutes; standard Direct Bank Transfers execute within 5 working business days; premium Global Credit/Debit instruments resolve natively inside 10 business days. • Marketing & Campaign Operations • Mega Campaign Governance: Participation in anchor"
+  },
+  {
+    "id": 8,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 3,
+    "chunk_index": 8,
+    "text": "edit/Debit instruments resolve natively inside 10 business days. • Marketing & Campaign Operations • Mega Campaign Governance: Participation in anchor calendar events (e.g., 11.11, 12.12) requires deep- discount dynamic commitments. Sellers must supply historically rock-bottom prices over a trailing 60-day baseline to earn high-visibility slots. • Data Privacy & Direct Advertising: Consumer identity obfuscation is strictly enforced across all outbound operations. Merchant partners never receive private numbers or personal coordinates; all customer touchpoints occur anonymously via native encrypted app proxies. • Voucher & Subsidy Optimization: Co-funded brand vouchers require binding micro-agreements. Arbitrage loops or coupon manipulation mechanics face rapid automated operational cancellation and merchant fee clawbacks."
+  },
+  {
+    "id": 9,
+    "department": "Returns",
+    "source_file": "Daraz_Comprehensive_Policies_Guide.pdf",
+    "page": 4,
+    "chunk_index": 9,
+    "text": "• Legal, Compliance & Information Security • Data Governance & Localization: All customer financial logs, user metadata, and operations are governed securely under international data safety rules and native localized privacy structures. • Restricted & Prohibited Goods Matrix: Strict algorithmic blocks block unauthorized distribution of alcohol, prescribed medication, specialized weaponry, adult materials, and localized currency substitutes. • Whistleblower & Anti-Bribery: Employees and external suppliers have secure, independent channels to report internal corruption, kickback setups, or structural policy violations anonymously. This document is a comprehensive compilation of corporate department frameworks and standard operating procedures. AI responses may include mistakes. This is for informational purposes only. For medical advice or diagnosis, consult a professional. AI responses may include mistakes."
+  }
+]
